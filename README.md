@@ -2,7 +2,7 @@
 
 A 2D roguelike memory card game developed in Unity, using emoji-based visual mechanics and procedural card deck generation.
 
-<img width="320" height="64" alt="roguemotelogo" src="https://github.com/user-attachments/assets/bbafaef9-5e97-47de-a227-c54f681ce33e" />
+<img width="640" height="128" alt="roguemotelogo" src="https://github.com/user-attachments/assets/bbafaef9-5e97-47de-a227-c54f681ce33e" />
 
 ## 🎮 Overview
 
@@ -29,9 +29,9 @@ A 2D roguelike memory card game developed in Unity, using emoji-based visual mec
       
 ## 📸 Screenshots
 
-<img width="1922" height="1082" alt="Roguemote Gameplay 1" src="https://github.com/user-attachments/assets/2ab5b571-a58e-4fad-a6dd-54c3e3214e90" />
-<img width="1922" height="1082" alt="Roguemote Gameplay 2" src="https://github.com/user-attachments/assets/3185b644-150e-4234-92c3-7d2411fd0299" />
-<img width="1922" height="1082" alt="Roguemote Gameplay 3" src="https://github.com/user-attachments/assets/e17e8513-4f6c-42bc-a58d-b7e914349c50" />
+<img width="1922" height="1082" alt="Roguemote Gameplay 1" src="https://github.com/user-attachments/assets/e17e8513-4f6c-42bc-a58d-b7e914349c50" />
+<img width="1922" height="1082" alt="Roguemote Gameplay 2" src="https://github.com/user-attachments/assets/2ab5b571-a58e-4fad-a6dd-54c3e3214e90" />
+<img width="1922" height="1082" alt="Roguemote Gameplay 3" src="https://github.com/user-attachments/assets/3185b644-150e-4234-92c3-7d2411fd0299" />
 
 
 ## 🚀 Built With
