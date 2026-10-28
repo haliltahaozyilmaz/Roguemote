@@ -1,4 +1,4 @@
-<img width="320" height="64" alt="Roguemote" src="https://github.com/user-attachments/assets/bbafaef9-5e97-47de-a227-c54f681ce33e" />
+## <img width="320" height="64" alt="Roguemote" src="https://github.com/user-attachments/assets/bbafaef9-5e97-47de-a227-c54f681ce33e" />
 
 A 2D roguelike memory card game developed in Unity, using emoji-based visual mechanics and procedural card deck generation.
 
