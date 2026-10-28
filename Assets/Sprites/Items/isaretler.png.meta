@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 6944b15c24e0003459fa967d89d7b8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2959981933201448003
+    second: isaretler_0
+  - first:
+      213: 7573200197488593373
+    second: isaretler_1
+  - first:
+      213: 8540741340034318382
+    second: isaretler_2
+  - first:
+      213: 7421585475637866353
+    second: isaretler_3
+  - first:
+      213: 4057957203218891826
+    second: isaretler_4
+  - first:
+      213: -405909413952214199
+    second: isaretler_5
+  - first:
+      213: -2659865374334873447
+    second: isaretler_6
+  - first:
+      213: -2142972205549143615
+    second: isaretler_7
+  - first:
+      213: -8756133926465718605
+    second: isaretler_8
+  - first:
+      213: 4825824117300927574
+    second: isaretler_9
+  - first:
+      213: -3177129821607591986
+    second: isaretler_10
+  - first:
+      213: -285113208738230820
+    second: isaretler_11
+  - first:
+      213: -7580829226465633511
+    second: isaretler_12
+  - first:
+      213: 6364309765610428634
+    second: isaretler_13
+  - first:
+      213: 3296983419430056981
+    second: isaretler_14
+  - first:
+      213: 4904757370414892153
+    second: isaretler_15
+  - first:
+      213: -2976726994333881288
+    second: isaretler_16
+  - first:
+      213: -3815245033807022949
+    second: isaretler_17
+  - first:
+      213: -4441050765084707656
+    second: isaretler_18
+  - first:
+      213: 8454707964490639810
+    second: isaretler_19
+  - first:
+      213: 4267490618995205079
+    second: isaretler_20
+  - first:
+      213: 416357775772199255
+    second: isaretler_21
+  - first:
+      213: -5115549845388590578
+    second: isaretler_22
+  - first:
+      213: 328806649208095288
+    second: isaretler_23
+  - first:
+      213: 7609009254218725943
+    second: isaretler_24
+  - first:
+      213: -195740011443944575
+    second: isaretler_25
+  - first:
+      213: 7500324902510314320
+    second: isaretler_26
+  - first:
+      213: 5326664140305307799
+    second: isaretler_27
+  - first:
+      213: -715691717159325304
+    second: isaretler_28
+  - first:
+      213: -6619148836226890682
+    second: isaretler_29
+  - first:
+      213: -6463508917620957769
+    second: isaretler_30
+  - first:
+      213: -6089058575496372745
+    second: isaretler_31
+  - first:
+      213: 4043956314757466781
+    second: isaretler_32
+  - first:
+      213: 1375982580852734670
+    second: isaretler_33
+  - first:
+      213: -8050139249262945853
+    second: isaretler_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isaretler_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db324f94d180ce6d0800000000000000
+      internalID: -2959981933201448003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c9308479691960800000000000000
+      internalID: 7573200197488593373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204d3b7ffec68670800000000000000
+      internalID: 8540741340034318382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fe7993ba4cef660800000000000000
+      internalID: 7421585475637866353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234899b8392c05830800000000000000
+      internalID: 4057957203218891826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2462e98bed5af0800000000000000
+      internalID: -405909413952214199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990986cd882461bd0800000000000000
+      internalID: -2659865374334873447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c935bc0222a242e0800000000000000
+      internalID: -2142972205549143615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6b34bf596fb7680800000000000000
+      internalID: -8756133926465718605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 328
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1c346775c8f240800000000000000
+      internalID: 4825824117300927574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 330
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf77c9a24198e3d0800000000000000
+      internalID: -3177129821607591986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc2681c031b0cf0800000000000000
+      internalID: -285113208738230820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bdd95cbfb7bc690800000000000000
+      internalID: -7580829226465633511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 347
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad852c32302925850800000000000000
+      internalID: 6364309765610428634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143b79a3fc31cd20800000000000000
+      internalID: 3296983419430056981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 330
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740f0587d2311440800000000000000
+      internalID: 4904757370414892153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 330
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ca96de19a80b6d0800000000000000
+      internalID: -2976726994333881288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 335
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fbd41bd68d0bc0800000000000000
+      internalID: -3815245033807022949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b436addbd73e52c0800000000000000
+      internalID: -4441050765084707656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c961274918255570800000000000000
+      internalID: 8454707964490639810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 259
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3658b9b1c293b30800000000000000
+      internalID: 4267490618995205079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 259
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759af5ce03337c500800000000000000
+      internalID: 416357775772199255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e020fcad48ae109b0800000000000000
+      internalID: -5115549845388590578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 268
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c5d5c7e7209400800000000000000
+      internalID: 328806649208095288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 260
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73afd5a3a91a89960800000000000000
+      internalID: 7609009254218725943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 259
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1838d852f77984df0800000000000000
+      internalID: -195740011443944575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 261
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053c42aa2c1861860800000000000000
+      internalID: 7500324902510314320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 262
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79895b050dc1ce940800000000000000
+      internalID: 5326664140305307799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 270
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817706dc2a5116f0800000000000000
+      internalID: -715691717159325304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 256
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6448145043f0424a0800000000000000
+      internalID: -6619148836226890682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 268
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd12a272e00d46a0800000000000000
+      internalID: -6463508917620957769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 255
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1efe9c715f7ba0800000000000000
+      internalID: -6089058575496372745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 261
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a015ca7d40f1830800000000000000
+      internalID: 4043956314757466781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 258
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca3ad4fdd8781310800000000000000
+      internalID: 1375982580852734670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaretler_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 258
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c990471109284090800000000000000
+      internalID: -8050139249262945853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36447d110f7ba8b4fbad8ac62f13cab5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      isaretler_0: -2959981933201448003
+      isaretler_1: 7573200197488593373
+      isaretler_10: -3177129821607591986
+      isaretler_11: -285113208738230820
+      isaretler_12: -7580829226465633511
+      isaretler_13: 6364309765610428634
+      isaretler_14: 3296983419430056981
+      isaretler_15: 4904757370414892153
+      isaretler_16: -2976726994333881288
+      isaretler_17: -3815245033807022949
+      isaretler_18: -4441050765084707656
+      isaretler_19: 8454707964490639810
+      isaretler_2: 8540741340034318382
+      isaretler_20: 4267490618995205079
+      isaretler_21: 416357775772199255
+      isaretler_22: -5115549845388590578
+      isaretler_23: 328806649208095288
+      isaretler_24: 7609009254218725943
+      isaretler_25: -195740011443944575
+      isaretler_26: 7500324902510314320
+      isaretler_27: 5326664140305307799
+      isaretler_28: -715691717159325304
+      isaretler_29: -6619148836226890682
+      isaretler_3: 7421585475637866353
+      isaretler_30: -6463508917620957769
+      isaretler_31: -6089058575496372745
+      isaretler_32: 4043956314757466781
+      isaretler_33: 1375982580852734670
+      isaretler_34: -8050139249262945853
+      isaretler_4: 4057957203218891826
+      isaretler_5: -405909413952214199
+      isaretler_6: -2659865374334873447
+      isaretler_7: -2142972205549143615
+      isaretler_8: -8756133926465718605
+      isaretler_9: 4825824117300927574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
